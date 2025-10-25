@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filte
 from yt_dlp import YoutubeDL
 
 # Replace this with your bot token from @BotFather
-TOKEN = '8363050892:AAGZUoiI7ZStPSxBhrZtpfZFV_q5cynZccQ'
+TOKEN = '8394863520:AAGwM2eUFlIKGKQCO843GfQQ6fU5tn0OXHQ'
 
 async def downloader(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Only process text messages
